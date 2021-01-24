@@ -197,7 +197,6 @@ opt_restore() {
 ###
 # Main script
 ###
-# TODO: Fix path for absolute paths
 ORIG_WORKING_DIR="$PWD"
 
 # Make the working directory equivalent to the script directory
